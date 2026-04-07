@@ -47,11 +47,12 @@ The dashboard tracks several critical High-Level Metrics:
 
 
 
-## 💡 Summary of Recommendations
-
-Based on the dashboard findings, the organization should focus on:
 
 1.  **R\&D Retention:** Investigate the high turnover in Research & Development through exit interviews.
 2.  **Early Career Support:** Develop mentorship programs for the **25-34 age group** to reduce "job-hopping" tendencies.
 3.  **Gender-Specific Engagement:** Address the higher turnover rate among male employees through targeted engagement initiatives.
+
+
+
+![Dashboard ](https://github.com/user-attachments/assets/319dddee-c0e6-4f21-bc06-232c4ad14e1b)
 
